@@ -1,4 +1,4 @@
-The best GPT miniProgram!
+The best GPT miniProgram !
 
 <img src="https://wasted.icu/static/tmp/light.png" alt="img" style="zoom:50%;" />
 
